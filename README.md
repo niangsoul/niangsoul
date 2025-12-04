@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello! I'm [Your Name]</h1>
+<h1 align="center">👋 Hello! I'm niangsoul</h1>
 <p align="center">
-A passionate Full-Stack Developer who loves building clean, intuitive, and useful web services.
+A passionate Full-Stack Developer who enjoys creating clean and practical web services.
 </p>
 
 ---
@@ -26,27 +26,27 @@ A passionate Full-Stack Developer who loves building clean, intuitive, and usefu
 ---
 
 ## 🌱 About Me
-- 🔭 Currently building: **My Planner** – All-in-One 일정/할 일/일기/습관 관리 웹 서비스  
-- 🌱 Learning: **Spring Boot**, **Cloud Deployment**, **Advanced React Patterns**  
-- 🎯 2025 Goal: Grow into a solid full-stack developer  
-- 💬 Ask me about: Java, REST API, React, or Web Architecture  
-- ⚡ Fun fact: I love organizing things—so I built a planner app 😄  
+- 🔭 Currently working on: **My Planner** – All-in-One 일정/할 일/일기/습관 관리 웹 서비스  
+- 🌱 Studying: **Spring Boot**, **React**, **Cloud Deployment**  
+- 🎯 2025 Goal: Become a solid full-stack developer  
+- 💬 Ask me about: Java, Spring Boot, REST API, React  
+- ⚡ Fun fact: 계획 세우는 걸 좋아해서 직접 플래너 서비스까지 만들었어요 😄  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=niangsoul&show_icons=true&theme=default" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niangsoul&layout=compact">
 </p>
 
 ---
 
 ## 📫 Connect With Me
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/niangsoul">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:zp100402@naver.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
